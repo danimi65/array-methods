@@ -61,9 +61,14 @@ var myFruits = fruitCollection.join(" + ");
 
 var favoriteFriends = friends.slice(1, 3);
 
-var owesMoney = friends.slice(1, 4);
+//var owesMoney = friends.slice(1, 4);
 
 var monthNameString = monthNames.toString();
+
+var favoriteColor = colors.indexOf("Red");
+
+var favoriteEvenNumber = mixedNums.indexOf(76);
+
 
 
 
