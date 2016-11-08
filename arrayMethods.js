@@ -22,10 +22,22 @@ nameArray.push('Danika', 'Harada');
 
 genericNumberArray.push(6, 7, 8, 9, 10);
 
-colors.pop();
-
-var popResult = 'Charlie';
+//colors.pop();
+var popResult = colors.pop();
 
 scrambledWords.reverse();
 
 phoneNumber.reverse();
+
+// orderQueue.shift();
+var nextOrder =  orderQueue.shift();
+
+
+
+
+
+
+
+
+
+
