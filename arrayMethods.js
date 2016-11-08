@@ -55,6 +55,10 @@ var newCustomOrder = [{takeOut: "smoothie"}];
 
 var updatedOrders = orderQueue.concat(customOrder, newCustomOrder);
 
+var sentence = scrambledWords.join(" ");
+
+var myFruits = fruitCollection.join(" + ");
+
 
 
 
